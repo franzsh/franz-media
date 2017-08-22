@@ -1,0 +1,16 @@
+{
+  "name": "franz-media",
+  "version": "0.0.1",
+  "description": "press & media resources",
+  "main": "index.js",
+  "repository": "https://github.com/franzsh/franz-media.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "sketch-json",
+    "pull": "sketch-json --json"
+  },
+  "dependencies": {
+    "sketch-json-cli": "^0.0.1"
+  }
+}
